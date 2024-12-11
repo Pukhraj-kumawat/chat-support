@@ -14,12 +14,11 @@ This project demonstrates the integration of WhatsApp with a Django application.
 ---
 
 ## Step 1: Clone the WhatsApp Integration Repository
-
-git clone https://github.com/Pukhraj-kumawat/whatsapp
-switch to main branch
-cd whatsapp
-npm install
-nodemon server.js
+    	1.  git clone https://github.com/Pukhraj-kumawat/whatsapp
+	2. switch to main branch
+	3. cd whatsapp
+	4. npm install
+	5. nodemon server.js
 
 
 ## Step 2: Link WhatsApp Account
@@ -34,11 +33,11 @@ Your WhatsApp account is now linked to the application.
 
 ## Step 3: Clone the Current Project
 
-git clone https://github.com/Pukhraj-kumawat/chat-support
-cd chatSupport
-pip install -r requirements.txt
-python3 manage.py migrate
-python3 manage.py runserver
+	1. git clone https://github.com/Pukhraj-kumawat/chat-support
+	2. cd chatSupport
+	3. pip install -r requirements.txt
+	4. python3 manage.py migrate
+	5. python3 manage.py runserver
 
 
 ## Step 4: Send Messages to the Linked WhatsApp Account
