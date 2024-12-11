@@ -14,7 +14,8 @@ This project demonstrates the integration of WhatsApp with a Django application.
 ---
 
 ## Step 1: Clone the WhatsApp Integration Repository
-    	1. git clone https://github.com/Pukhraj-kumawat/whatsapp
+
+	1. git clone https://github.com/Pukhraj-kumawat/whatsapp
 	2. switch to main branch
 	3. cd whatsapp
 	4. npm install
