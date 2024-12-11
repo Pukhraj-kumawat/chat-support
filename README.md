@@ -14,7 +14,6 @@ This project demonstrates the integration of WhatsApp with a Django application.
 ---
 
 ## Step 1: Clone the WhatsApp Integration Repository
-Clone the WhatsApp integration repository and set up the server to scan the QR code for linking your WhatsApp account.
 
 git clone https://github.com/Pukhraj-kumawat/whatsapp
 switch to main branch
@@ -34,8 +33,6 @@ Your WhatsApp account is now linked to the application.
 
 
 ## Step 3: Clone the Current Project
-
-Clone this Django project repository and set it up.
 
 git clone https://github.com/Pukhraj-kumawat/chat-support
 cd chatSupport
