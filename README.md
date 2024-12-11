@@ -23,7 +23,7 @@ npm install
 nodemon server.js
 
 
-Step 2: Link WhatsApp Account
+## Step 2: Link WhatsApp Account
 	1.	Open your browser and go to: http://localhost:3000/scanqr
 	2.	A QR code will be displayed on the screen.
 	3.	Open the WhatsApp app on your phone.
@@ -33,7 +33,7 @@ Step 2: Link WhatsApp Account
 Your WhatsApp account is now linked to the application.
 
 
-Step 3: Clone the Current Project
+## Step 3: Clone the Current Project
 
 Clone this Django project repository and set it up.
 
@@ -44,13 +44,13 @@ python3 manage.py migrate
 python3 manage.py runserver
 
 
-Step 4: Send Messages to the Linked WhatsApp Account
+## Step 4: Send Messages to the Linked WhatsApp Account
 	1.	Use any other device to send a message to the linked WhatsApp account.
 	2.	These messages will be captured by the application.
 
 
 
-Step 5: View Messages in the Admin Panel
+## Step 5: View Messages in the Admin Panel
 	1.	Open the Django admin panel in your browser: http://localhost:8000/admin.
 	2.	Log in using your admin credentials.
 	3.	Navigate to the WhatsAppMessage model to view the stored messages.
